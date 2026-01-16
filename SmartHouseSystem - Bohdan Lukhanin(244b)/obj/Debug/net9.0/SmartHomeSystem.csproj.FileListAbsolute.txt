@@ -1,0 +1,14 @@
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\bin\Debug\net9.0\SmartHomeSystem.exe
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\bin\Debug\net9.0\SmartHomeSystem.deps.json
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\bin\Debug\net9.0\SmartHomeSystem.runtimeconfig.json
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\bin\Debug\net9.0\SmartHomeSystem.dll
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\bin\Debug\net9.0\SmartHomeSystem.pdb
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.AssemblyInfoInputs.cache
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.AssemblyInfo.cs
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.dll
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\refint\SmartHomeSystem.dll
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.pdb
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\SmartHomeSystem.genruntimeconfig.cache
+C:\Users\Bohdan\RiderProjects\SmartHomeSystem\obj\Debug\net9.0\ref\SmartHomeSystem.dll

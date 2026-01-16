@@ -1,0 +1,14 @@
+C:\Users\Bohdan\RiderProjects\NavalVessels\bin\Debug\net9.0\NavalVessels.exe
+C:\Users\Bohdan\RiderProjects\NavalVessels\bin\Debug\net9.0\NavalVessels.deps.json
+C:\Users\Bohdan\RiderProjects\NavalVessels\bin\Debug\net9.0\NavalVessels.runtimeconfig.json
+C:\Users\Bohdan\RiderProjects\NavalVessels\bin\Debug\net9.0\NavalVessels.dll
+C:\Users\Bohdan\RiderProjects\NavalVessels\bin\Debug\net9.0\NavalVessels.pdb
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.AssemblyInfoInputs.cache
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.AssemblyInfo.cs
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.csproj.CoreCompileInputs.cache
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.dll
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\refint\NavalVessels.dll
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.pdb
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\NavalVessels.genruntimeconfig.cache
+C:\Users\Bohdan\RiderProjects\NavalVessels\obj\Debug\net9.0\ref\NavalVessels.dll
